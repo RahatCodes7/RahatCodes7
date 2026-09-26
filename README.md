@@ -74,17 +74,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahatCodes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahatCodes7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RahatCodes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RahatCodes7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatCodes7&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RahatCodes7&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 
-<!-- ===== TROPHY ===== -->
+<!-- ===== SUMMARY CARDS (trophy er bodle - trophy server down) ===== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahatCodes7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahatCodes7&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahatCodes7&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahatCodes7&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
