@@ -3,12 +3,12 @@
 -->
 
 <!-- ===== HEADER ===== -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahat%20Islam&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Passionate%20Developer%20%7C%20Always%20Learning&descAlignY=55&descSize=18" width="100%" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7366ff,100:BF91F3&height=230&section=header&text=Rahat%20Islam&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Always%20Learning%20%F0%9F%9A%80&descAlignY=62&descSize=20" width="100%" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/RahatCodes7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rahat+Islam+%F0%9F%91%8B;I'm+a+Passionate+Developer+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Always+Learning+New+Things+%F0%9F%8C%B1;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahat+Islam+%F0%9F%91%8B;Passionate+Developer+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python;Always+Learning+New+Things+%F0%9F%8C%B1;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -158,4 +158,4 @@
 <h3 align="center">💖 Thanks for visiting my profile!</h3>
 <p align="center">Let's connect and build something amazing together 🚀</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7366ff,100:BF91F3&height=130&section=footer" width="100%" />
